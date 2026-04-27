@@ -1,4 +1,4 @@
-# Closed-Domain RAG Model for Question Answering
+# DomainRAG: A Closed-Domain RAG Model for Question Answering
 
 # Overview
 This project aims to create a closed-domain Retrieval-Augmented Generation (RAG) model capable of reading the content of various files and accessing this information to function as a question and answer system.
